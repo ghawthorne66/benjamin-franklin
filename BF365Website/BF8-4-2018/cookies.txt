@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.benfranklin365.com	TRUE	/	FALSE	1999999999	SEOT	#1
+www.benfranklin365.com	TRUE	/	FALSE	1999999999	T	!!
+.www.scorpioncms.com	TRUE	/	FALSE	1999999999	TS0185a1e4	010a6bf4553c3d5a4a42a1c06a445ffa49cb7576ec31f2c4f972a4b9e0e7da5741f0d59473f20e88a8fbb2c8c07064a9967448318d
+www.benfranklin365.com	TRUE	/	FALSE	1999999999	SEOV	#68
+.www.benfranklin365.com	TRUE	/	FALSE	1999999999	TS014f5459	010a6bf455b521c2eca0506723e247c13b7ecc402fceb2eddf468fc81369230b50b7c732b1996ebfc6202cbad7a9f991b28a6548d0
+
